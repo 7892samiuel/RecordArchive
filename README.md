@@ -38,6 +38,6 @@ Windows 11 23H2（22631.6060）搭配微信 4.2.0.9 有“其他应用”列表�
 
 ## 项目与致谢
 
-当前仓库提供程序下载，完整源码正在整理。第三方许可见 [THIRD_PARTY_NOTICES.md](THIRD_PARTY_NOTICES.md) 和下载包内的许可证目录。
+当前已公开分享接收、归档解析、媒体处理、界面回调和安装卸载组件的源码，采用 [MIT 许可证](LICENSE)。测试与构建范围见 [开发说明](DEVELOPMENT.md)。完整桌面程序仍依赖历史冻结运行时，尚不能仅凭本仓库重建。第三方许可见 [THIRD_PARTY_NOTICES.md](THIRD_PARTY_NOTICES.md) 和下载包内的许可证目录。
 
 Windows 分享接收设计参考 [WeChatBridge](https://github.com/freestylefly/WeChatBridge) 与 [ChatPCBridge](https://github.com/bwjoke/ChatPCBridge)。
